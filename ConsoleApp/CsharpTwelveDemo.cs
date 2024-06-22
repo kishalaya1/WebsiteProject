@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
-    public static class Logic
+    public class CsharpTwelveDemo
     {
-        public static int Id { get; set; }
     }
 }

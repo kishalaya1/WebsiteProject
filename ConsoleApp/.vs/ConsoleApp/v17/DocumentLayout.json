@@ -3,15 +3,18 @@
   "WorkspaceRootPath": "J:\\DotNetPractice projects\\github\\WebsiteProject\\ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{303A86D5-AA33-4F29-960D-27192C0DFAFF}|..\\TestWebsiteProject\\TestWebsiteProject.csproj|j:\\dotnetpractice projects\\github\\websiteproject\\testwebsiteproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9175CC2F-DA56-4947-9ECA-81A6806E69CF}|ConsoleApp.csproj|j:\\dotnetpractice projects\\github\\websiteproject\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9175CC2F-DA56-4947-9ECA-81A6806E69CF}|ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9175CC2F-DA56-4947-9ECA-81A6806E69CF}|ConsoleApp.csproj|j:\\dotnetpractice projects\\github\\websiteproject\\consoleapp\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9175CC2F-DA56-4947-9ECA-81A6806E69CF}|ConsoleApp.csproj|solutionrelative:logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{303A86D5-AA33-4F29-960D-27192C0DFAFF}|..\\TestWebsiteProject\\TestWebsiteProject.csproj|j:\\dotnetpractice projects\\github\\websiteproject\\testwebsiteproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303A86D5-AA33-4F29-960D-27192C0DFAFF}|..\\TestWebsiteProject\\TestWebsiteProject.csproj|j:\\dotnetpractice projects\\github\\websiteproject\\testwebsiteproject\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9175CC2F-DA56-4947-9ECA-81A6806E69CF}|ConsoleApp.csproj|j:\\dotnetpractice projects\\github\\websiteproject\\consoleapp\\csharptwelvedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9175CC2F-DA56-4947-9ECA-81A6806E69CF}|ConsoleApp.csproj|solutionrelative:csharptwelvedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,33 +24,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Logic.cs",
-              "DocumentMoniker": "J:\\DotNetPractice projects\\github\\WebsiteProject\\ConsoleApp\\Logic.cs",
-              "RelativeDocumentMoniker": "Logic.cs",
-              "ToolTip": "J:\\DotNetPractice projects\\github\\WebsiteProject\\ConsoleApp\\Logic.cs",
-              "RelativeToolTip": "Logic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "J:\\DotNetPractice projects\\github\\WebsiteProject\\TestWebsiteProject\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "..\\TestWebsiteProject\\GlobalUsings.cs",
+              "ToolTip": "J:\\DotNetPractice projects\\github\\WebsiteProject\\TestWebsiteProject\\GlobalUsings.cs",
+              "RelativeToolTip": "..\\TestWebsiteProject\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:59:19.383Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "J:\\DotNetPractice projects\\github\\WebsiteProject\\TestWebsiteProject\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\TestWebsiteProject\\UnitTest1.cs",
-              "ToolTip": "J:\\DotNetPractice projects\\github\\WebsiteProject\\TestWebsiteProject\\UnitTest1.cs",
-              "RelativeToolTip": "..\\TestWebsiteProject\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T15:14:21.1Z",
+              "WhenOpened": "2024-06-22T16:14:19.915Z",
               "EditorCaption": ""
             },
             {
@@ -100,13 +89,38 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsharpTwelveDemo.cs",
+              "DocumentMoniker": "J:\\DotNetPractice projects\\github\\WebsiteProject\\ConsoleApp\\CsharpTwelveDemo.cs",
+              "RelativeDocumentMoniker": "CsharpTwelveDemo.cs",
+              "ToolTip": "J:\\DotNetPractice projects\\github\\WebsiteProject\\ConsoleApp\\CsharpTwelveDemo.cs",
+              "RelativeToolTip": "CsharpTwelveDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:23:51.72Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "J:\\DotNetPractice projects\\github\\WebsiteProject\\TestWebsiteProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestWebsiteProject\\UnitTest1.cs",
+              "ToolTip": "J:\\DotNetPractice projects\\github\\WebsiteProject\\TestWebsiteProject\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestWebsiteProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:14:21.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "J:\\DotNetPractice projects\\github\\WebsiteProject\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "J:\\DotNetPractice projects\\github\\WebsiteProject\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T14:27:08.817Z",
               "EditorCaption": ""
