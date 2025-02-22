@@ -13,3 +13,18 @@ J:\DotNetPractice projects\github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ref
 J:\DotNetPractice projects\github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 J:\DotNetPractice projects\github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 J:\DotNetPractice projects\github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+F:\Github\WebsiteProject\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+F:\Github\WebsiteProject\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+F:\Github\WebsiteProject\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+F:\Github\WebsiteProject\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+F:\Github\WebsiteProject\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+F:\Github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+F:\Github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+F:\Github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+F:\Github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+F:\Github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+F:\Github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+F:\Github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+F:\Github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+F:\Github\WebsiteProject\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
