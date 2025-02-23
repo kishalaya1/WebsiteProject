@@ -34,8 +34,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T14:23:51.72Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -93,7 +92,7 @@
               "RelativeDocumentMoniker": "..\\TestCSharpTwelve\\UnitTest1.cs",
               "ToolTip": "F:\\Github\\WebsiteProject\\TestCSharpTwelve\\UnitTest1.cs",
               "RelativeToolTip": "..\\TestCSharpTwelve\\UnitTest1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAEwBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T15:16:37.256Z",
               "EditorCaption": ""
@@ -108,8 +107,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:27:08.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T14:27:08.817Z"
             }
           ]
         },
