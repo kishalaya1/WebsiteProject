@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "F:\\Github\\WebsiteProject\\ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA3E451B-353A-4A7B-A6B7-937F633EA75B}|..\\TestCSharpTwelve\\TestCSharpTwelve.csproj|f:\\github\\websiteproject\\testcsharptwelve\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9175CC2F-DA56-4947-9ECA-81A6806E69CF}|ConsoleApp.csproj|f:\\github\\websiteproject\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9175CC2F-DA56-4947-9ECA-81A6806E69CF}|ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3E451B-353A-4A7B-A6B7-937F633EA75B}|..\\TestCSharpTwelve\\TestCSharpTwelve.csproj|f:\\github\\websiteproject\\testcsharptwelve\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9175CC2F-DA56-4947-9ECA-81A6806E69CF}|ConsoleApp.csproj|f:\\github\\websiteproject\\consoleapp\\csharptwelvedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
@@ -31,10 +31,14 @@
               "RelativeDocumentMoniker": "CsharpTwelveDemo.cs",
               "ToolTip": "F:\\Github\\WebsiteProject\\ConsoleApp\\CsharpTwelveDemo.cs",
               "RelativeToolTip": "CsharpTwelveDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T14:23:51.72Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
@@ -81,33 +85,33 @@
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "F:\\Github\\WebsiteProject\\TestCSharpTwelve\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\TestCSharpTwelve\\UnitTest1.cs",
               "ToolTip": "F:\\Github\\WebsiteProject\\TestCSharpTwelve\\UnitTest1.cs",
               "RelativeToolTip": "..\\TestCSharpTwelve\\UnitTest1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADgvxoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T15:16:37.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T15:16:37.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Github\\WebsiteProject\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\Github\\WebsiteProject\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:27:08.817Z"
+              "WhenOpened": "2024-05-11T14:27:08.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         },
